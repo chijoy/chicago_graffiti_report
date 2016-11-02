@@ -23,9 +23,6 @@ Or install it yourself as:
 ## Usage
 
 Use this gem to view the report on Chicago graffiti.
-```ruby
-ChicagoGraffitiReport::Graffiti.where(service_request_number: 16-0755428).count
-```
 
 ## Development
 
